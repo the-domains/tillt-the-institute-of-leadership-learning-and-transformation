@@ -1,0 +1,28 @@
+name: 'TILLT : The Institute of Leadership Learning & Transformation'
+favicon: null
+layout_spectrum: 0.14055471029132605
+typography_spectrum: 0.13933633221313357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.12256489717401564
+  lightness: 0.7697791450191289
+  saturation: 0.08400544081814587
+  rhythmicContrast: 0.7251802228856832
+purpose: []
